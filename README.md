@@ -21,5 +21,5 @@ Loops
 Conditional Statements
 <br>
 Project Structure
-todo_list.py
+to_do_list.py
 README.md
